@@ -10,6 +10,9 @@ This is a Streamlit app that uses the TrOCR model to recognize and transcribe ha
 - **Text Recognition**: The app uses the TrOCR model to transcribe the text from the uploaded image.
 - **Display Results**: View the recognized text directly within the app.
 
+## Deployment
+The app is also deployed on Streamlit Cloud. You can access it at https://handwrtiten-image-text.streamlit.app/.
+
 ## Requirements
 
 To run this app locally, you need to have the following Python packages installed:
